@@ -20,8 +20,6 @@ Um site relativamente simples para treinar posicionamento com o FlexBox.
 * Todos os posicionamentos desse site foram feitos usando o FlexBox
 * Esse site é projeto do curso da [Origamid]([https://link-url-here.org](https://www.origamid.com/)) 
 
-
-
 <h2 id="status">⌛ Status do projeto</h2>
 
 :white_check_mark: Projeto concluído :white_check_mark:
@@ -30,4 +28,5 @@ Um site relativamente simples para treinar posicionamento com o FlexBox.
 
 ``HTML``
 ``CSS``
-``JS``
+``FlexBox (CSS)``
+
