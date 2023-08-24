@@ -10,7 +10,7 @@ https://github.com/JulliaW/FlexBlog/assets/73961301/7e205c82-5161-424a-8411-7da0
 <p align="center">
  <a href="#objetivos">Descrição</a> •
  <a href="#status">Status</a> • 
- <a href="#tec">Tecnologias</a> • 
+ <a href="#tec">Tecnologias</a>
 </p>
 
 <h2 id="objetivos">📜 Descrição</h2>
@@ -18,7 +18,7 @@ https://github.com/JulliaW/FlexBlog/assets/73961301/7e205c82-5161-424a-8411-7da0
 Um site relativamente simples para treinar posicionamento com o FlexBox.
 
 * Todos os posicionamentos desse site foram feitos usando o FlexBox
-* Esse site é projeto do curso da [Origamid]([https://link-url-here.org](https://www.origamid.com/)) 
+* Esse site é projeto do curso da [Origamid](https://www.origamid.com/) 
 
 <h2 id="status">⌛ Status do projeto</h2>
 
