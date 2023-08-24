@@ -18,7 +18,7 @@ https://github.com/JulliaW/FlexBlog/assets/73961301/7e205c82-5161-424a-8411-7da0
 Um site relativamente simples para treinar posicionamento com o FlexBox.
 
 * Todos os posicionamentos desse site foram feitos usando o FlexBox
-* Esse site é projeto do curso da [Origamid](https://www.origamid.com/) 
+* Esse site é projeto do curso da <a href="https://www.origamid.com/">Origamid</a>
 
 <h2 id="status">⌛ Status do projeto</h2>
 
