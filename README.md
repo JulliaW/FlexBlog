@@ -1,4 +1,4 @@
-# FleBlog 💻
+# FlexBlog 💻
 <h4 align="center">✨ Projeto desenvolvido com a finalidade de estudar e treinar FlexBox</h4>
 
 <div align="center">
